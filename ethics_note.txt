@@ -1,0 +1,8 @@
+This Simple Keylogger is created strictly for educational purposes.
+
+Ethical Guidelines:
+- Use only on systems you own or have explicit permission to monitor.
+- Do not use this software to spy on users or steal sensitive information.
+- Unauthorized keylogging is illegal and unethical.
+
+The developer is not responsible for any misuse of this tool.
